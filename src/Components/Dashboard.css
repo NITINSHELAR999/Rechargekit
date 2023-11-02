@@ -1,0 +1,8 @@
+.all_api_data {
+  display: flex;
+  justify-content: space-around;
+}
+.navbar_allData {
+  display: flex;
+  justify-content: space-around;
+}
